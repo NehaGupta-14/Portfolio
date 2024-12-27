@@ -1,4 +1,4 @@
-  🚀 Neha Gupta - Portfolio Website
+  🚀 Neha Gupta - Portfolio Website<br>
 Welcome to my personal Portfolio Website! This platform showcases my skills, experience, projects, and passion for web development and software engineering.
 
   📄 About the Project:
@@ -21,23 +21,24 @@ Font Awesome for additional icons
 ScrollReveal for animations
 Typed.js for dynamic typing animations
 Web3Forms API for contact form functionality
+
   📚 Skills Highlighted
 Frontend Development: HTML, CSS, JavaScript, React
 Programming Languages: Java, Python
 Professional Skills: Problem Solving, Adaptability, Teamwork, Analytical Skills
+
   💼 Experience
 Frontend Web Developer Intern at 1stop.ai
 Python Developer Intern at CodeClause
 Volunteer Experience at Anmol Art Foundation
+
   📂 Projects
-Realtime Chitchat App: Real-time messaging application with MongoDB and WebSocket integration.
-🔗 View on GitHub
+1.Realtime Chitchat App: Real-time messaging application with MongoDB and WebSocket integration.
 
-Music Player App: A Python-based music player application with essential functionalities.
-🔗 View on GitHub
+2.Music Player App: A Python-based music player application with essential functionalities.
 
-My Portfolio Website: Explore this live portfolio project!
-🔗 Live Demo
+3.My Portfolio Website: Explore this live portfolio project!
+
 
   📬 Contact Me
 📧 Email: nglead123@gmail.com
