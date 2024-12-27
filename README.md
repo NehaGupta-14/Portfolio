@@ -47,15 +47,17 @@ Volunteer Experience at Anmol Art Foundation<br>
 🐙 GitHub: NehaGupta-12<br>
 
   👩‍💻 How to Run Locally<br>
-Clone this repository:<br>
+1.Clone this repository:<br>
 bash<br>
 Copy code<br>
 git clone https://github.com/NehaGupta-12/Portfolio12.github.io.git<br>
-Navigate to the project folder:<br>
+
+2.Navigate to the project folder:<br>
 bash<br>
 Copy code<br>
 cd Portfolio12.github.io<br>
-Open index.html in your preferred browser.<br>
+
+3.Open index.html in your preferred browser.<br>
 
   ⭐ Feedback & Suggestions<br>
 If you find any bugs or have suggestions for improvement, feel free to create an issue or drop me an email. 😊<br>
