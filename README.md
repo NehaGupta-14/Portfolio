@@ -1,4 +1,4 @@
-<b>  🚀 Neha Gupta - Portfolio Website <b> <br>
+  🚀 Neha Gupta - Portfolio Website  <br>
 Welcome to my personal Portfolio Website! This platform showcases my skills, experience, projects, and passion for web development and software engineering.
 
   📄 About the Project:<br>
